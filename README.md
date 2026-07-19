@@ -8,27 +8,26 @@ Privacy Policy
 
 MIOS-X Clinical AI ("the App") is developed to provide clinical decision support, drug information, calculators, and educational resources for healthcare professionals.
 
-Information We Collect
+## Information We Collect
 
-The App may collect the following information:
+The app may collect:
 
-Google account information (when signing in using Google Sign-In)
-Subscription status through Google Play Billing
-Basic app analytics and crash reports (Firebase, if enabled)
+- Google account information (when signing in with Google Sign-In)
+- Subscription status through Google Play Billing
+- Basic crash information (if enabled)
 
-The App does not collect:
+The app does NOT collect:
 
-Patient medical records
-Personal health information
-Contact lists
-SMS
-Phone calls
-Photos
-Videos
-Files on your device
-Location
-How We Use Information
-
+- Patient medical records
+- Personal health information
+- Contact lists
+- SMS
+- Phone calls
+- Photos
+- Videos
+- Files stored on your device
+- Precise location
+  
 Information is used only to:
 
 Authenticate your account
