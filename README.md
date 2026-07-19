@@ -12,9 +12,7 @@ MIOS-X Clinical AI ("the App") is developed to provide clinical decision support
 
 The app may collect:
 
-- Google account information (when signing in with Google Sign-In)
-- Subscription status through Google Play Billing
-- Basic crash information (if enabled)
+- The app uses Google Sign-In and Google Play Billing to provide authentication and subscription services.
 
 The app does NOT collect:
 
